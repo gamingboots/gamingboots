@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gamingboots22007@gmail.com**
 
-- ⚡ Fun fact **I am not good**
+- ⚡ Fun fact **I am not good at programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +17,7 @@
 <a href="https://instagram.com/gamingbootsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamingbootsx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gamingboots" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamingboots" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/ATzc2XQNnM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ATzc2XQNnM" height="30" width="40" /></a>
+<img align="middle" src="https://discord.c99.nl/widget/theme-3/760774187357962262.png">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
