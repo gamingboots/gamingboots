@@ -26,3 +26,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamingboots&show_icons=true&locale=en&layout=compact" alt="gamingboots" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamingboots&" alt="gamingboots" /></p>
+
+## 🎴 Spotify Recently Played
+<br>
+<a href="https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i62mcelo4lhqymrkghdcbexyxa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31i62mcelo4lhqymrkghdcbexyxa&redirect=true)
+</a>
