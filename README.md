@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamingboots&" alt="gamingboots" /></p>
 
-## 🎴 Spotify Recently Played
+## <img src="https://cdn.discordapp.com/attachments/918722247026434048/939096664231247892/ezgif-3-cf559c76e4.gif" width="25"> Spotify Recently Played
 <br>
 <a href="https://open.spotify.com/user/31i62mcelo4lhqymrkghdcbexyxa">
 
