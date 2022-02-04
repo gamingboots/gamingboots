@@ -17,7 +17,6 @@
 <a href="https://instagram.com/gamingbootsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamingbootsx" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gamingboots" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamingboots" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/ATzc2XQNnM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ATzc2XQNnM" height="30" width="40" /></a>
-<img align="middle" src="https://discord.c99.nl/widget/theme-3/760774187357962262.png">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,11 +26,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamingboots&" alt="gamingboots" /></p>
 
-## <img src="https://cdn.discordapp.com/attachments/918722247026434048/939096664231247892/ezgif-3-cf559c76e4.gif" width="25"> Spotify Recently Played
+## <img src="https://cdn.discordapp.com/attachments/918722247026434048/939096664231247892/ezgif-3-cf559c76e4.gif" width="25"> Spotify And Discord <img src="https://media4.giphy.com/media/UOM6ldHVXzxPvXWrBf/giphy.gif?cid=ecf05e47hqykkb62f2p5rvgwz9492oqsenc1saofiznn2enj&rid=giphy.gif&ct=s" width="25">
 <br>
 <a href="https://open.spotify.com/user/31i62mcelo4lhqymrkghdcbexyxa">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i62mcelo4lhqymrkghdcbexyxa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rwu8m7m34mit13j931l5618p5&redirect=true)
+
+<img align="middle" src="https://discord.c99.nl/widget/theme-3/760774187357962262.png">
+ 
 </a>
 </p>
 </div>
