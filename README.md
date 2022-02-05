@@ -33,7 +33,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i62mcelo4lhqymrkghdcbexyxa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rwu8m7m34mit13j931l5618p5&redirect=true)
 
 <img align="middle" src="https://discord.c99.nl/widget/theme-3/760774187357962262.png">
- 
 </a>
 </p>
 </div>
+<h3 align="left">📊 GitHub Stats:</h3>
+![Gamingboots github stats](https://github-readme-stats.vercel.app/api?username=gamingboots&theme=radical&show_icons=true&count_private=true)
