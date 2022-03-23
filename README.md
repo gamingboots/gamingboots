@@ -1,35 +1,43 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> , I'm Abhishek aka gamingboots <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> , I'm Abhishek aka gamingboots <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 <h3 align="center">A self passionate developer from India</h3>
+<div align="center"><img src="./Media/banner_.gif"></div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gamingboots" alt="gamingboots" /></a> </p>
+## I Love To Watch Anime And Write Code.
+### My socials : 
+> - [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gamingbootsytx)&nbsp;
+> - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thekaushikgoswami)&nbsp;
+> - [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/thekaushikgoswami)&nbsp;
+> - [![Discord](https://img.shields.io/badge/Discord_Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MFpy66jWFA)&nbsp;
+> - [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14279011/thekaushikgoswami)&nbsp;
+> - [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/TheKaushikGoswami)&nbsp;
+> - [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/TheKaushik01)&nbsp;
+> - [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/rwu8m7m34mit13j931l5618p5)&nbsp;
+> - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thekaushikgoswami@gmail.com)&nbsp;
+> - [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheKaushikGoswami)&nbsp;
+> - [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thekaushikgoswami)&nbsp;
+> - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thekaushikgoswami)&nbsp;
 
-- 🔭 I’m currently working on **Ceres-Discord**
+### Launguage's that I know:
 
-- 🌱 I’m currently learning **Python, JS, HTML**
+> - ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+> - ![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
+> - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+> - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+### My Github Stats!
 
-- 📫 How to reach me **gamingboots22007@gmail.com**
+<details>
+  <summary>click to reveal</summary>
+  <div>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=gamingboots&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamingboots&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamingboots&theme=radical">
+  </div>
+</details>
 
-- ⚡ Fun fact **I am not good at programming**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/17571813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17571813" height="30" width="40" /></a>
-<a href="https://instagram.com/gamingbootsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gamingbootsx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gamingboots" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gamingboots" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/ATzc2XQNnM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ATzc2XQNnM" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  
-![Gamingboots github stats](https://github-readme-stats.vercel.app/api?username=gamingboots&theme=radical&show_icons=true&count_private=true)</a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamingboots&show_icons=true&locale=en&layout=compact" alt="gamingboots" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gamingboots&" alt="gamingboots" /></p>
-
-## <img src="https://cdn.discordapp.com/attachments/918722247026434048/939096664231247892/ezgif-3-cf559c76e4.gif" width="25"> Spotify And Discord <img src="https://media4.giphy.com/media/UOM6ldHVXzxPvXWrBf/giphy.gif?cid=ecf05e47hqykkb62f2p5rvgwz9492oqsenc1saofiznn2enj&rid=giphy.gif&ct=s" width="25">
-<br>
+### Extra
+<details>
+  <summary>click to reveal</summary>
 <a href="https://open.spotify.com/user/31i62mcelo4lhqymrkghdcbexyxa">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i62mcelo4lhqymrkghdcbexyxa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rwu8m7m34mit13j931l5618p5&redirect=true)
