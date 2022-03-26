@@ -1,6 +1,8 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> , I'm Abhishek aka gamingboots <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 <h3 align="center">A self passionate developer from India</h3>
 
+<div align="center">
+
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gamingbootsytx)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord_Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ATzc2XQNnM)&nbsp;
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17571813/abgy)&nbsp;
@@ -8,6 +10,7 @@
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31i62mcelo4lhqymrkghdcbexyxa)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamngboots19@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gamingboots)&nbsp;
+</div>
 <div align="center"><img src="./Media/banner_.gif"></div>
 
 ## I Love To Watch Anime And Write Code.
