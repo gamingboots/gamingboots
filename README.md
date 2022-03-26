@@ -17,6 +17,7 @@
 > - ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 > - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 > - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+> - ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown&logoColor=1572B6)&nbsp;
 ### My Github Stats!
 
 <details>
