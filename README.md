@@ -16,7 +16,7 @@
 ## I Love To Watch Anime And Write Code.
 
 
-### Language's that I know:
+### Skills
 
 > - ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 > - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
