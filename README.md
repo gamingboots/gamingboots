@@ -1,5 +1,6 @@
+<img src="./Media/Banner_.gif" />
+<br>
 <h1 align="center">Hello <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> , I'm Abhishek aka gamingboots <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
-<h3 align="center">A self passionate developer from India</h3>
 
 <div align="center">
 
@@ -11,37 +12,39 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamngboots19@gmail.com)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gamingboots)&nbsp;
 </div>
-<div align="center"><img src="./Media/banner_.gif"></div>
+<hr>
 
-## I Love To Watch Anime And Write Code.
+<div align="center">
+<h3 align="center">Skills</h3>
 
-
-### Skills
-
-> - ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-> - ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-> - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-> - ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown&logoColor=1572B6)&nbsp;
-### My Github Stats!
-
-<details>
-  <summary>click to reveal</summary>
-  <div>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=gamingboots&show_icons=true&theme=radical">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamingboots&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamingboots&theme=radical">
-  </div>
-</details>
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+</div>
+<hr>
+<h3 align="center">Some stats!</h3>
+<div>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=gamingboots&show_icons=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamingboots&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamingboots&theme=radical">
+  
+</div>
 
 ### Extra
 <details>
   <summary>click to reveal</summary>
-<a href="https://open.spotify.com/user/31i62mcelo4lhqymrkghdcbexyxa">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i62mcelo4lhqymrkghdcbexyxa&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=rwu8m7m34mit13j931l5618p5&redirect=true)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<img align="middle" src="https://discord.c99.nl/widget/theme-3/760774187357962262.png">
+---
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31i62mcelo4lhqymrkghdcbexyxa&cover_image=true&theme=default)
+
+---
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/760774187357962262?theme=dark&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/760774187357962262)
 </a>
 </p>
-</div>
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
